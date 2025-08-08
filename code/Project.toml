@@ -1,0 +1,3 @@
+[deps]
+BlochSphereBigFloat = "cc0cc715-7158-454f-8336-517d3cc13cc2"
+CoordinateSystems = "d6291028-476d-4297-b3a8-76c3a4d31e5f"
